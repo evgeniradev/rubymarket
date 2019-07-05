@@ -1,0 +1,11 @@
+Style/Documentation:
+  Enabled: false
+
+Style/FormatString:
+  Enabled: false
+
+Metrics/BlockLength:
+  Max: 45
+
+Lint/UnifiedInteger:
+  Enabled: false
